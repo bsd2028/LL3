@@ -446,7 +446,7 @@ phpinfo();?>
 
 “这不也挺简单的吗！哦，还有开机自启 `chkconfig mysqld on`、`chkconfig httpd on`”
 
-然后是下载 emlo 的压缩包用 wget（yum install wget）下载解压安装到 CentOS 上吗？“”
+然后是下载 emlo 的压缩包用 wget（yum install wget）下载解压安装到 CentOS 上吗？”
 
 然后就进入了 emlo 的配置界面。配置很简单，就输入了 mysql 数据库的用户名和密码，端口号 3306 是默认的，不用改系列。
 
