@@ -854,7 +854,7 @@ Linus 的话很对，不仅他们开发者的社区是一个肮脏的泥潭，�
 
 在翻译完 Gentoo 的文档以后张才哲基本掌握了这个系统，一开始你就要决定是用 Systemd 还是 OpenRC，二者只能选其一。
 
-安装 Gentoo 需要一个 liveCD 的 Linux 环境，使用 GentooLinux 项目提供的 LiveCD 是一个最差的选择，最优选择是使用 Ubuntu 的 LiveCD。
+安装 Gentoo 需要一个 liveCD 的 Linux 环境，使用 Gentoo Linux 项目提供的 LiveCD 是一个最差的选择，最优选择是使用 Ubuntu 的 LiveCD。
 
 不仅仅是因为他有图形界面，而且因为有很多优秀的工具已经预装，比如分区软件 gparted。
 
